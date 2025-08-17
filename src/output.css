@@ -1069,6 +1069,21 @@ video {
   padding-bottom: 0.75rem;
 }
 
+.py-\[200px\] {
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.py-\[1300px\] {
+  padding-top: 1300px;
+  padding-bottom: 1300px;
+}
+
+.px-\[250px\] {
+  padding-left: 250px;
+  padding-right: 250px;
+}
+
 .text-center {
   text-align: center;
 }
